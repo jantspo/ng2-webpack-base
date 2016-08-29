@@ -9,3 +9,7 @@ dependencies.
 ##Development
 
 `npm start` runs in development by default. Webpack transpilers ts files at runtime and does not write to disk in development mode.
+
+##Further Information
+
+For further information on using webpack with Angular 2 visit (https://angular.io/docs/ts/latest/guide/webpack.html)
