@@ -12,4 +12,4 @@ dependencies.
 
 ##Further Information
 
-For further information on using webpack with Angular 2 visit (https://angular.io/docs/ts/latest/guide/webpack.html)
+For further information on using webpack with Angular 2 visit https://angular.io/docs/ts/latest/guide/webpack.html
