@@ -10,6 +10,10 @@ dependencies.
 
 `npm start` runs in development by default. Webpack transpilers ts files at runtime and does not write to disk in development mode.
 
+##Production
+
+`npm build` runs production commands in `./config/webpack.prod.js`. It builds out a `dist` folder with all the concatenated files ready for deployment.
+
 ##Further Information
 
 For further information on using webpack with Angular 2 visit https://angular.io/docs/ts/latest/guide/webpack.html
